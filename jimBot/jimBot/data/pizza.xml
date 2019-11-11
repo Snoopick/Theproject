@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfMenu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Menu>
+    <Id>1</Id>
+    <Name>Восемь сыров</Name>
+    <Description>Соус Пармеджано, сыр моцарелла, сыр фета, сыр реджанито, сыр с голубой плесенью, смесь 3-х сыров, орегано</Description>
+    <Price>35</Price>
+  </Menu>
+  <Menu>
+    <Id>2</Id>
+    <Name>Капричиоза</Name>
+    <Description>Томатный соус, ветчина, шампиньоны, сыр моцарелла, томаты</Description>
+    <Price>28</Price>
+  </Menu>
+  <Menu>
+    <Id>3</Id>
+    <Name>Греческая</Name>
+    <Description>Томатный соус, маслины, лук, сыр моцарелла,томаты, сыр фета, перец халапеньо, орегано</Description>
+    <Price>27</Price>
+  </Menu>
+  <Menu>
+    <Id>4</Id>
+    <Name>Пепперони</Name>
+    <Description>Томатный соус, сыр моцарелла, пепперони</Description>
+    <Price>28</Price>
+  </Menu>
+  <Menu>
+    <Id>5</Id>
+    <Name>Четыре сыра</Name>
+    <Description>Томатный соус, сыр моцарелла, голубой сыр, пармезан, фета, орегано</Description>
+    <Price>36</Price>
+  </Menu>
+</ArrayOfMenu>

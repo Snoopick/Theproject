@@ -1,2 +1,2 @@
-# Theproject
+# The project
 JimBot
